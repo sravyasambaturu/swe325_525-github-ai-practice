@@ -1,0 +1,28 @@
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+[1mdiff --git a/README.md b/README.md[m
+[1mindex da6bafc..b9728cd 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,15 +1,16 @@[m
+[31m-# swe325_525-github-ai-practice[m
+[32m+[m[32m# SWE 325/525 GitHub + AI Practice[m
+ [m
+[31m-This repository documents a structured GitHub workflow - issue, feature[m
+[32m+[m[32mBy Sravya Sambaturu - SWE 325/525 Software Construction[m
+[32m+[m
+[32m+[m[32mThis repository documents a structured GitHub workflow, issue, feature[m
+ branch, commits, pull request, and review, combined with responsible use[m
+ of an AI assistant for planning, review, and documentation support.[m
+ [m
+[31m-**Student:** Sravya Sambaturu[m
+[31m-**Course:** SWE 325/525 Software Construction[m
+[32m+[m[32mTracked in: [Document GitHub workflow with AI assistance](https://github.com/sravyasambaturu/swe325_525-github-ai-practice/issues/1)[m
+ [m
+ ## Scope[m
+ This repository contains only Markdown files documenting the workflow and[m
+[31m-AI-use log. It does not contain a software project.[m
+[32m+[m[32mAI-use log. It does not contain a software project or code.[m
+ [m
+ ## Workflow overview[m
+ 1. Define the work in a GitHub issue.[m
