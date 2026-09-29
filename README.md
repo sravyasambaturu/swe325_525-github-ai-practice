@@ -1,15 +1,16 @@
-# swe325_525-github-ai-practice
+# SWE 325/525 GitHub + AI Practice
 
-This repository documents a structured GitHub workflow - issue, feature
+By Sravya Sambaturu - SWE 325/525 Software Construction
+
+This repository documents a structured GitHub workflow, issue, feature
 branch, commits, pull request, and review, combined with responsible use
 of an AI assistant for planning, review, and documentation support.
 
-**Student:** Sravya Sambaturu
-**Course:** SWE 325/525 Software Construction
+Tracked in: [Document GitHub workflow with AI assistance](https://github.com/sravyasambaturu/swe325_525-github-ai-practice/issues/1)
 
 ## Scope
 This repository contains only Markdown files documenting the workflow and
-AI-use log. It does not contain a software project.
+AI-use log. It does not contain a software project or code.
 
 ## Workflow overview
 1. Define the work in a GitHub issue.
