@@ -8,7 +8,7 @@
 - **Prompt or summary:** Asked Claude to explain the difference between a repository, branch, commit, pull request, and issue.
 - **Useful suggestion:** Claude explained that a repository is the project's full storage including all files and history; a branch is a movable pointer to a line of commits that allows isolated development; a commit is a focused, saved snapshot of one change with an explanatory message; a pull request is a proposal to merge one branch's changes into another, with room for review and discussion; and an issue is a tracked unit of planned work or discussion, often used to define goals or acceptance criteria before work begins.
 - **Decision:** Accepted
-- **Reason:** The explanation was accurate and directly usable. I used it as the basis for the "GitHub concepts used in this assignment" section in `workflow-notes.md`.
+- **Reason:** I added the issue link since it makes the repository easier to navigate and lets a reviewer trace the work back to its original goal without searching manually. I kept the full workflow list in the README instead of trimming it, because a first-time visitor to the repo shouldn't need to open workflow-notes.md just to understand the basic process - the short list adds minimal length but real value for someone skimming the README alone.
 
 **Related GitHub URL:** [Commit 8478b19](https://github.com/sravyasambaturu/swe325_525-github-ai-practice/commit/8478b1948236b25dcfee242efad9c42e5be828e6)
 
