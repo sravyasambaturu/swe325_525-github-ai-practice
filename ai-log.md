@@ -38,7 +38,7 @@
 - **Decision:** Accepted
 - **Reason:** The checklist matched almost exactly what the assignment requires in the pull-request description, so I used it directly as the structure for my pull request.
 
-**Related GitHub URL:** *(pull request not yet created - will add after Part 4)*
+**Related GitHub URL:** [Pull request #2](https://github.com/sravyasambaturu/swe325_525-github-ai-practice/pull/2)
 
 ---
 
